@@ -1,2 +1,3 @@
 # Automatizacao-DemoQA
-Testes automatizados da aplicação demoQA. Inclui tanto testes de API, quanto testes FrontEnd
+Testes automatizados da aplicação demoQA.
+Link do projeto: https://demoqa.com/
